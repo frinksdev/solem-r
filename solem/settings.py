@@ -16,6 +16,8 @@ https://docs.djangoproject.com/en/2.1/ref/settings/
 # Bobby Caldwell - What you won't do for love 
 # bye dev
 
+# tanto en chicago como en veracruz, en la boca llevaras sabor a mi 
+
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
